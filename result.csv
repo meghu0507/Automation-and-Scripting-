@@ -1,0 +1,7 @@
+,Design,DataPath Delay,DynamicPower,StaticPower,LogicPower,Signal Power,TotalPower,Slice_LUT,F7_Muxes,LUT_As_Logic,LUT_As_Memory,LUT_2,LUT_4
+0,top_CLA8.v,9.882,4.807,0.088,0.065,0.167,4.895,13,0,13,0,1,3
+1,top_CLA16.v,12.463,10.89,0.156,0.194,0.5,11.046,35,0,35,0,6,8
+2,top_CLA32.v,18.806,22.729,0.485,0.505,1.749,23.213,96,0,96,0,26,14
+3,top_8_3_behav_enc.v,7.613,0.682,0.072,0.012,0.033,0.754,3,0,3,0,NA,2
+4,top_8_3_struct.v,7.663,0.673,0.072,0.012,0.032,0.745,3,0,3,0,1,1
+5,top_rca.v,9.494,5.508,0.092,0.054,0.17,5.600,8,0,8,0,NA,NA
