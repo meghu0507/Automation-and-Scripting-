@@ -17,7 +17,7 @@ What if, you have some method to make this thing automated, so that, your time c
 //About the project 
 
 
-The project uses Vivado for making the designs to be implemented and report generation(top_rca, top_CLA8, top_8_3_structure etc) 
+The project uses Vivado for making the designs to be implemented and report generation(top_rca, top_CLA8, top_8_3_structure etc).  
 The tcl script tc_add.tcl, is used to create the project mypro. 
 tc_open.tcl is used to open the project and add the design files to it. 
 tc_run.tcl is used to run the various design files, systhesize them and produce the implemented reports. 
